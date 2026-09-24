@@ -1,2 +1,1 @@
-Seyyedali-Rajaeinikoo
-سیدعلی رجائی‌نیکو
+# Seyyedali-Rajaeinikoo
